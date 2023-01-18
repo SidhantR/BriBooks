@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    .navbar__left__container{
+        height:50px;
+        width:100px;
+        img{
+            height:100%;
+            width: 100%;
+        }
+    }
+    .navbarRight__container{
+display: flex;
+gap:20px;
+    }
+}
